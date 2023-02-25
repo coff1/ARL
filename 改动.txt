@@ -1,0 +1,9 @@
+清空，禁止的域名后缀，一律改为：
+forbid_domain
+
+清空，dict下的black资产
+
+增加fofakey：
+  EMAIL: ""
+  KEY: ""
+
